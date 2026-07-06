@@ -10,6 +10,7 @@ DSA problems solution in java ...
 | [0011-container-with-most-water](https://github.com/piyush1645/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/piyush1645/DSA_JAVA/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/piyush1645/DSA_JAVA/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/piyush1645/DSA_JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ DSA problems solution in java ...
 | ------- |
 | [0011-container-with-most-water](https://github.com/piyush1645/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/piyush1645/DSA_JAVA/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/piyush1645/DSA_JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
