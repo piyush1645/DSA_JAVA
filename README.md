@@ -7,6 +7,7 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/piyush1645/DSA_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/piyush1645/DSA_JAVA/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -15,4 +16,12 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/piyush1645/DSA_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/piyush1645/DSA_JAVA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/piyush1645/DSA_JAVA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
