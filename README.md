@@ -9,6 +9,7 @@ DSA problems solution in java ...
 | [0004-median-of-two-sorted-arrays](https://github.com/piyush1645/DSA_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/piyush1645/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/piyush1645/DSA_JAVA/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/piyush1645/DSA_JAVA/tree/master/0016-3sum-closest) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/piyush1645/DSA_JAVA/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/piyush1645/DSA_JAVA/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
@@ -33,4 +35,8 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyush1645/DSA_JAVA/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/piyush1645/DSA_JAVA/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
