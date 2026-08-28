@@ -45,6 +45,7 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyush1645/DSA_JAVA/tree/master/0014-longest-common-prefix) |
+| [1143-longest-common-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -67,6 +68,7 @@ DSA problems solution in java ...
 | [0322-coin-change](https://github.com/piyush1645/DSA_JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0494-target-sum) |
+| [1143-longest-common-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -90,4 +92,8 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/piyush1645/DSA_JAVA/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
