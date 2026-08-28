@@ -45,12 +45,14 @@ DSA problems solution in java ...
 | [0016-3sum-closest](https://github.com/piyush1645/DSA_JAVA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyush1645/DSA_JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/piyush1645/DSA_JAVA/tree/master/0027-remove-element) |
+| [0763-partition-labels](https://github.com/piyush1645/DSA_JAVA/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/piyush1645/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/piyush1645/DSA_JAVA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/piyush1645/DSA_JAVA/tree/master/0134-gas-station) |
+| [0763-partition-labels](https://github.com/piyush1645/DSA_JAVA/tree/master/0763-partition-labels) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@ DSA problems solution in java ...
 | [0091-decode-ways](https://github.com/piyush1645/DSA_JAVA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/piyush1645/DSA_JAVA/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/0516-longest-palindromic-subsequence) |
+| [0763-partition-labels](https://github.com/piyush1645/DSA_JAVA/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
@@ -74,6 +77,7 @@ DSA problems solution in java ...
 | ------- |
 | [0036-valid-sudoku](https://github.com/piyush1645/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/piyush1645/DSA_JAVA/tree/master/0139-word-break) |
+| [0763-partition-labels](https://github.com/piyush1645/DSA_JAVA/tree/master/0763-partition-labels) |
 ## Matrix
 |  |
 | ------- |
