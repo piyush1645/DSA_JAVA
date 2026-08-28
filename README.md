@@ -16,6 +16,7 @@ DSA problems solution in java ...
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/piyush1645/DSA_JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/piyush1645/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/piyush1645/DSA_JAVA/tree/master/0036-valid-sudoku) |
+| [0322-coin-change](https://github.com/piyush1645/DSA_JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0494-target-sum) |
 ## Binary Search
@@ -63,11 +64,13 @@ DSA problems solution in java ...
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/piyush1645/DSA_JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/piyush1645/DSA_JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -79,4 +82,12 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0494-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/piyush1645/DSA_JAVA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/piyush1645/DSA_JAVA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
