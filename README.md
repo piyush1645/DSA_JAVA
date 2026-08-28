@@ -47,6 +47,7 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyush1645/DSA_JAVA/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/piyush1645/DSA_JAVA/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
@@ -67,6 +68,7 @@ DSA problems solution in java ...
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/piyush1645/DSA_JAVA/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/piyush1645/DSA_JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
