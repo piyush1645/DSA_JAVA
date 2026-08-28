@@ -22,6 +22,7 @@ DSA problems solution in java ...
 | [0213-house-robber-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/piyush1645/DSA_JAVA/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/piyush1645/DSA_JAVA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0494-target-sum) |
 ## Binary Search
@@ -85,6 +86,7 @@ DSA problems solution in java ...
 | [0213-house-robber-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/piyush1645/DSA_JAVA/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/piyush1645/DSA_JAVA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0494-target-sum) |
 | [1143-longest-common-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
