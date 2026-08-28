@@ -17,6 +17,7 @@ DSA problems solution in java ...
 | [0035-search-insert-position](https://github.com/piyush1645/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/piyush1645/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0198-house-robber](https://github.com/piyush1645/DSA_JAVA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/piyush1645/DSA_JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
@@ -71,6 +72,7 @@ DSA problems solution in java ...
 | ------- |
 | [0072-edit-distance](https://github.com/piyush1645/DSA_JAVA/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/piyush1645/DSA_JAVA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/piyush1645/DSA_JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
