@@ -16,6 +16,7 @@ DSA problems solution in java ...
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/piyush1645/DSA_JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/piyush1645/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/piyush1645/DSA_JAVA/tree/master/0036-valid-sudoku) |
+| [0055-jump-game](https://github.com/piyush1645/DSA_JAVA/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/piyush1645/DSA_JAVA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/piyush1645/DSA_JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0213-house-robber-ii) |
@@ -46,6 +47,7 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/piyush1645/DSA_JAVA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/piyush1645/DSA_JAVA/tree/master/0055-jump-game) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ DSA problems solution in java ...
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/piyush1645/DSA_JAVA/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/piyush1645/DSA_JAVA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/piyush1645/DSA_JAVA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/piyush1645/DSA_JAVA/tree/master/0139-word-break) |
