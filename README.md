@@ -56,6 +56,7 @@ DSA problems solution in java ...
 | [0072-edit-distance](https://github.com/piyush1645/DSA_JAVA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/piyush1645/DSA_JAVA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/piyush1645/DSA_JAVA/tree/master/0139-word-break) |
+| [0516-longest-palindromic-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
@@ -89,6 +90,7 @@ DSA problems solution in java ...
 | [0403-frog-jump](https://github.com/piyush1645/DSA_JAVA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
 ## Knapsack Problem
 |  |
