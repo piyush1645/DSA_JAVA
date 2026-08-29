@@ -48,6 +48,7 @@ DSA problems solution in java ...
 | [0016-3sum-closest](https://github.com/piyush1645/DSA_JAVA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyush1645/DSA_JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/piyush1645/DSA_JAVA/tree/master/0027-remove-element) |
+| [0567-permutation-in-string](https://github.com/piyush1645/DSA_JAVA/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/piyush1645/DSA_JAVA/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
@@ -67,6 +68,7 @@ DSA problems solution in java ...
 | [0139-word-break](https://github.com/piyush1645/DSA_JAVA/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyush1645/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/piyush1645/DSA_JAVA/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/piyush1645/DSA_JAVA/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
 ## Trie
@@ -85,6 +87,7 @@ DSA problems solution in java ...
 | [0036-valid-sudoku](https://github.com/piyush1645/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/piyush1645/DSA_JAVA/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyush1645/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/piyush1645/DSA_JAVA/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/piyush1645/DSA_JAVA/tree/master/0763-partition-labels) |
 ## Matrix
 |  |
@@ -152,6 +155,7 @@ DSA problems solution in java ...
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyush1645/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyush1645/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/piyush1645/DSA_JAVA/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
