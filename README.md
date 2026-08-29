@@ -175,9 +175,15 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0136-single-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/piyush1645/DSA_JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/piyush1645/DSA_JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/piyush1645/DSA_JAVA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
