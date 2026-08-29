@@ -25,6 +25,7 @@ DSA problems solution in java ...
 | [0198-house-robber](https://github.com/piyush1645/DSA_JAVA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/piyush1645/DSA_JAVA/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/piyush1645/DSA_JAVA/tree/master/0403-frog-jump) |
@@ -39,6 +40,7 @@ DSA problems solution in java ...
 | [0035-search-insert-position](https://github.com/piyush1645/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush1645/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |
@@ -85,6 +87,7 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/piyush1645/DSA_JAVA/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +95,7 @@ DSA problems solution in java ...
 | [0036-valid-sudoku](https://github.com/piyush1645/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/piyush1645/DSA_JAVA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/piyush1645/DSA_JAVA/tree/master/0139-word-break) |
+| [0268-missing-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyush1645/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/piyush1645/DSA_JAVA/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/piyush1645/DSA_JAVA/tree/master/0763-partition-labels) |
@@ -171,4 +175,9 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0136-single-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
