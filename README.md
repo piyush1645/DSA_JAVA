@@ -17,6 +17,7 @@ DSA problems solution in java ...
 | [0035-search-insert-position](https://github.com/piyush1645/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/piyush1645/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/piyush1645/DSA_JAVA/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/piyush1645/DSA_JAVA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0136-single-number) |
@@ -103,10 +104,12 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/piyush1645/DSA_JAVA/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0064-minimum-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/piyush1645/DSA_JAVA/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/piyush1645/DSA_JAVA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/piyush1645/DSA_JAVA/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
