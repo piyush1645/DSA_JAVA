@@ -79,6 +79,7 @@ DSA problems solution in java ...
 | [0567-permutation-in-string](https://github.com/piyush1645/DSA_JAVA/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/piyush1645/DSA_JAVA/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
+| [1278-palindrome-partitioning-iii](https://github.com/piyush1645/DSA_JAVA/tree/master/1278-palindrome-partitioning-iii) |
 ## Trie
 |  |
 | ------- |
@@ -123,6 +124,7 @@ DSA problems solution in java ...
 | [0494-target-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
+| [1278-palindrome-partitioning-iii](https://github.com/piyush1645/DSA_JAVA/tree/master/1278-palindrome-partitioning-iii) |
 ## Knapsack Problem
 |  |
 | ------- |
