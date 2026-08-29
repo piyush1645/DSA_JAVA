@@ -65,6 +65,7 @@ DSA problems solution in java ...
 | [0072-edit-distance](https://github.com/piyush1645/DSA_JAVA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/piyush1645/DSA_JAVA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/piyush1645/DSA_JAVA/tree/master/0139-word-break) |
+| [0424-longest-repeating-character-replacement](https://github.com/piyush1645/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-partition-labels](https://github.com/piyush1645/DSA_JAVA/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/1143-longest-common-subsequence) |
@@ -83,6 +84,7 @@ DSA problems solution in java ...
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyush1645/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/piyush1645/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/piyush1645/DSA_JAVA/tree/master/0139-word-break) |
+| [0424-longest-repeating-character-replacement](https://github.com/piyush1645/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0763-partition-labels](https://github.com/piyush1645/DSA_JAVA/tree/master/0763-partition-labels) |
 ## Matrix
 |  |
@@ -149,6 +151,7 @@ DSA problems solution in java ...
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyush1645/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/piyush1645/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
