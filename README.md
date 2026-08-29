@@ -23,6 +23,7 @@ DSA problems solution in java ...
 | [0136-single-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/piyush1645/DSA_JAVA/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush1645/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0174-dungeon-game](https://github.com/piyush1645/DSA_JAVA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/piyush1645/DSA_JAVA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0213-house-robber-ii) |
@@ -106,6 +107,7 @@ DSA problems solution in java ...
 | ------- |
 | [0036-valid-sudoku](https://github.com/piyush1645/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0064-minimum-path-sum) |
+| [0174-dungeon-game](https://github.com/piyush1645/DSA_JAVA/tree/master/0174-dungeon-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +117,7 @@ DSA problems solution in java ...
 | [0091-decode-ways](https://github.com/piyush1645/DSA_JAVA/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/piyush1645/DSA_JAVA/tree/master/0139-word-break) |
+| [0174-dungeon-game](https://github.com/piyush1645/DSA_JAVA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/piyush1645/DSA_JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/piyush1645/DSA_JAVA/tree/master/0300-longest-increasing-subsequence) |
