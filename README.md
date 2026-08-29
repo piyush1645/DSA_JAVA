@@ -19,6 +19,7 @@ DSA problems solution in java ...
 | [0055-jump-game](https://github.com/piyush1645/DSA_JAVA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/piyush1645/DSA_JAVA/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/piyush1645/DSA_JAVA/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush1645/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/piyush1645/DSA_JAVA/tree/master/0198-house-robber) |
@@ -166,4 +167,8 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
