@@ -25,6 +25,7 @@ DSA problems solution in java ...
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush1645/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/piyush1645/DSA_JAVA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/piyush1645/DSA_JAVA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/piyush1645/DSA_JAVA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/piyush1645/DSA_JAVA/tree/master/0268-missing-number) |
@@ -108,6 +109,7 @@ DSA problems solution in java ...
 | [0036-valid-sudoku](https://github.com/piyush1645/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/piyush1645/DSA_JAVA/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/piyush1645/DSA_JAVA/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/piyush1645/DSA_JAVA/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +148,7 @@ DSA problems solution in java ...
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/piyush1645/DSA_JAVA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/piyush1645/DSA_JAVA/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
@@ -194,4 +197,12 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/piyush1645/DSA_JAVA/tree/master/0231-power-of-two) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/piyush1645/DSA_JAVA/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/piyush1645/DSA_JAVA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
