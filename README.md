@@ -203,6 +203,7 @@ DSA problems solution in java ...
 | ------- |
 | [0200-number-of-islands](https://github.com/piyush1645/DSA_JAVA/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0210-course-schedule-ii) |
+| [1192-critical-connections-in-a-network](https://github.com/piyush1645/DSA_JAVA/tree/master/1192-critical-connections-in-a-network) |
 ## Union-Find
 |  |
 | ------- |
@@ -211,8 +212,17 @@ DSA problems solution in java ...
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0210-course-schedule-ii) |
+| [1192-critical-connections-in-a-network](https://github.com/piyush1645/DSA_JAVA/tree/master/1192-critical-connections-in-a-network) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/piyush1645/DSA_JAVA/tree/master/0210-course-schedule-ii) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/piyush1645/DSA_JAVA/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/piyush1645/DSA_JAVA/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
