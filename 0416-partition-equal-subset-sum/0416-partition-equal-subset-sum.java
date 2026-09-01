@@ -1,44 +1,45 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        int n=nums.length;
         int sum=0;
-        for(int i=0;i<n;i++){
+        int n=nums.length;
+        for(int i=0;i<nums.length;i++){
             sum+=nums[i];
         }
         if(sum % 2 != 0){
             return false;
         }
         int w=sum/2;
+        //make dp
         int dp[][]=new int[n+1][w+1];
 
-        //initilization
+        //ini
         for(int i=0;i<n+1;i++){
             dp[i][0]=0;
         }
-        for(int i=1;i<w+1;i++){
+        for(int i=0;i<w+1;i++){
             dp[0][i]=0;
         }
 
-        //bottom-up
+        //bootom up
         for(int i=1;i<n+1;i++){
-            
             for(int j=1;j<w+1;j++){
-                if(nums[i-1]<=j){
+                if(nums[i-1] <= j){
                     //valid
-                    //include
-                    int include=dp[i-1][j-nums[i-1]]+nums[i-1];
+                    //iunclude
+                    int include=nums[i-1]+dp[i-1][j-nums[i-1]];
                     //exclude
                     int exclude=dp[i-1][j];
                     dp[i][j]=Math.max(include,exclude);
-
                 }else{
                     //exclude
                     dp[i][j]=dp[i-1][j];
+
                 }
             }
         }
-        
-        return dp[n][w] == w;
-
+        if(dp[n][w]==sum/2){
+            return true;
+        }
+    return false;
     }
 }
